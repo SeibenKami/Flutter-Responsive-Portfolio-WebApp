@@ -23,7 +23,7 @@ List<Project> projectList = [
       'Heilen Player',
       'Online player for streaming cool calm music. Powered by Flutter and Firebase.',
       'assets/images/heilen.png',
-      'https://play.google.com/store/apps/details?id=com.seiben.heilen'),
+      ''),
   Project(
       'Vestate',
       'An application that brings together Virtual reality (VR), a robust property listing system and a comprehensive UI, providing an all-encompassing solution for property pnwers and customers.Using AR technology, CUI AIDER offers an immersive experience, allowing users to explore the complete university campus virtually. Through VR, customers can visualize buildings, navigate with interactive directions, and gain a better understanding of their surroundings.',
